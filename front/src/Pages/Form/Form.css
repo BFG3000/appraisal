@@ -1,0 +1,14 @@
+table td {
+  text-align: right;
+  vertical-align: middle !important;
+}
+table th {
+  text-align: center;
+  white-space: nowrap;
+  font-size: 20px !important;
+}
+
+ol,
+ul {
+  padding-right: 2rem;
+}
